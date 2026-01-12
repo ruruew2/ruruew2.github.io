@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App' // App.tsx 파일을 불러옴
-import './index.css'   // CSS 파일이 있다면 불러옴
+
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
