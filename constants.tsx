@@ -7,7 +7,7 @@ export const PROJECTS: Project[] = [
     id: '1',
     name: '사과 게임 (Apple Game)',
     description: 'Vite와 Canvas로 제작한 고전 아케이드 스타일 게임',
-    url: '/applegame',
+    url: 'https://ruruew2.github.io/applegame/',
     icon: '🍎'
   },
   {
